@@ -1,0 +1,42 @@
+.Content {
+  display:block;
+  margin: auto;
+  background-color: #FFCC03;
+border-radius: 15px 50px 30px 5px;
+  margin-top: 30px;
+  align-content: center;
+	width: 100vh;
+	height: 50vh;
+}
+
+#txtSearch{
+margin-top: 20px;
+margin-left: 550px;
+}
+
+#pokepic {
+  height: 300px;
+  margin-left: 160px;
+  margin-bottom: 50px;
+  margin-top: -50px;
+}
+
+#name{
+  margin-left: 275px;
+  padding-top: 50px;
+}
+
+#weight{
+  margin-left: 275px;
+}
+
+#contentTekst{
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.body{
+  margin:0px;
+	height: 100%;
+  background-color: #3C59A5;
+}
